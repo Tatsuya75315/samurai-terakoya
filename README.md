@@ -1,1 +1,1 @@
-# samurai-terakoya
+# github-basic-kadai
