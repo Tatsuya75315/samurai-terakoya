@@ -6,8 +6,8 @@ html {
   font-size: 20px;
 }
 
-span .blue {
-  font-color: #87ceeb;
+.blue {
+  color: skyblue;
 }
 
 
