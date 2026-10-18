@@ -1,5 +1,11 @@
 body {
-  font-family: "Arial", "Meiryo", san-serif
+  font-family: "Arial", "Meiryo", san-serif;
 }
+
+html {
+  font-size: 20px;
+}
+
+
 
 
