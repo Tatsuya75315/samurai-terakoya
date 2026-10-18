@@ -1,10 +1,17 @@
 body {
-  font-family: "Arial", "Meiryo", san-serif;
+  font-family: "Arial","Meiryo",sans-serif;
+}
+
+html {
   font-size: 20px;
 }
 
 .blue {
   color: skyblue;
+}
+
+.pink {
+  background-color: rgb(255,192,203);
 }
 
 
