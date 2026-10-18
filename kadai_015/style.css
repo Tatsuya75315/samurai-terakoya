@@ -6,11 +6,11 @@ html {
      font-size: 20px;
 }
 
-.blue {
+h1 .blue {
       color: skyblue;
 }
 
-.pink {
+h1 .pink {
        background-color: rgb(255,192,203);
 }
 
