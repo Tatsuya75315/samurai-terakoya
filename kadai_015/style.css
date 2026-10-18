@@ -1,16 +1,16 @@
 body {
-     font-family: "Arial","Meiryo",sans-serif;
+     font-family: "Arial",　"Meiryo",　sans-serif;
 }
 
 html {
      font-size: 20px;
 }
 
-h1 .blue {
+.blue {
       color: skyblue;
 }
 
-h1 .pink {
+.pink {
        color: rgb(255,192,203);
 }
 
